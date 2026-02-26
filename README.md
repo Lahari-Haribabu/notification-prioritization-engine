@@ -330,6 +330,24 @@ Custom business logic applied
 
 ---
 
+🔧 Use of AI & Internet Tools
+
+Internet resources and AI-based development tools such as ChatGPT, Claude Code, GitHub Copilot, and similar platforms were permitted for this assignment.
+
+During the development process:
+
+AI tools were used primarily for concept clarification, structure suggestions, debugging support, and documentation refinement.
+
+Internet resources were referred to for official documentation, best practices, and technical references.
+
+All AI-generated suggestions were carefully reviewed, modified, and adapted to align with the project requirements.
+
+Core logic, architectural decisions, and final implementation were manually written and validated to ensure correctness and originality.
+
+This project reflects my understanding of the concepts, with AI tools serving only as supportive aids to enhance efficiency and code quality.
+
+---
+
 # 👩‍💻 Author
 
 **A Lahari **
